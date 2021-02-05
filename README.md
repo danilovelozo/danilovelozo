@@ -30,15 +30,6 @@
 **:rocket: Currently learning:** <br>
 <br>
 <code><a href="https://reactjs.org/" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></a></code>
-<code><a href="https://www.typescriptlang.org/" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></a></code>
-
----
-
-
-**🌱 Looking forward to learn:** <br>
-<br>
-<code><a href="https://elixir-lang.org/" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg"></a></code>
-
 ---
 
 
