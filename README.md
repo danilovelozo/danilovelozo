@@ -6,7 +6,6 @@
 
 ### About
 
-- 🏢 Currently working @ **[Distrito](http://distrito.me/)**
 - :books: Books  | :headphones: Music | :camping: Camping | :laughing: Memes
 - :purple_heart: Kind people are my kinda people
 - :apple: Beginner's mindset (**open to learning**)
@@ -20,7 +19,6 @@
 <code><a href="https://www.ruby-lang.org/" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg"></a></code>
 <code><a href="https://nodejs.org" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></a></code>
 <code><a href="https://www.postgresql.org/" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"></a></code>
-<code><a href="https://www.mongodb.com/" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></a></code>
 <code><a href="https://aws.amazon.com" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></a></code>
 <code><a href="https://cloud.google.com/" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></a></code>
 <code><a href="https://dashboard.heroku.com/" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"></a></code>
