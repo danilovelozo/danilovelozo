@@ -17,8 +17,9 @@
 **✨ Tech stacks currently using:** <br>
 <br>
 <code><a href="https://www.ruby-lang.org/" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg"></a></code>
+<code><a href="https://elixir-lang.org/" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg"></a></code>
 <code><a href="https://www.javascript.com/" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"></a></code>
-<code><a href="https://vuejs.org/" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg"></a></code>
+<code><a href="https://pt-br.reactjs.org/" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></a></code>
 <code><a href="https://www.postgresql.org/" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"></a></code>
 <code><a href="https://aws.amazon.com" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></a></code>
 <code><a href="https://dashboard.heroku.com/" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"></a></code>
