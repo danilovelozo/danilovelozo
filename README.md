@@ -9,7 +9,7 @@
 - :books: Books  | :headphones: Music | :camping: Camping | :laughing: Memes
 - :purple_heart: Kind people are my kinda people
 - :apple: Beginner's mindset (**open to learning**)
-- 🤓  Currently learning [Elixir](https://elixir-lang.org/) and [React](https://pt-br.reactjs.org/)
+- 🤓  Currently learning [Elixir](https://elixir-lang.org/)
 
 
 ---
@@ -20,7 +20,6 @@
 <code><a href="https://www.ruby-lang.org/" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg"></a></code>
 <code><a href="https://elixir-lang.org/" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg"></a></code>
 <code><a href="https://www.javascript.com/" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"></a></code>
-<code><a href="https://pt-br.reactjs.org/" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></a></code>
 <code><a href="https://www.postgresql.org/" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"></a></code>
 <code><a href="https://aws.amazon.com" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></a></code>
 <code><a href="https://dashboard.heroku.com/" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"></a></code>
