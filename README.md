@@ -7,7 +7,7 @@
 ### About
 
 - :books: Books  | :headphones: Music | :camping: Camping | :laughing: Memes
-- :briefcase: Currently working @ **[Magnetis Investimentos](https://www.magnetis.com.br/)**
+- :briefcase: Currently Open to Work
 - :purple_heart: Kind people are my kinda people
 - :apple: Beginner's mindset (**open to learning**)
 - 🤓  Currently learning [Elixir](https://elixir-lang.org/)
