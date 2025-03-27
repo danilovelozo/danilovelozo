@@ -7,10 +7,10 @@
 ### About
 
 - :books: Books  | :headphones: Music | :camping: Camping | :laughing: Memes
-- :briefcase: Currently working at DX Solutions 
+- :briefcase: Currently working at Roadcard
 - :purple_heart: Kind people are my kinda people
 - :apple: Beginner's mindset (**open to learning**)
-- 🤓  Currently learning [Elixir](https://elixir-lang.org/)
+- 🤓  Currently learning [Golang](https://go.dev/)
 
 
 ---
@@ -19,7 +19,7 @@
 **✨ Tech stacks currently using:** <br>
 <br>
 <code><a href="https://www.ruby-lang.org/" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg"></a></code>
-<code><a href="https://elixir-lang.org/" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg"></a></code>
+<code><a href="[https://elixir-lang.org/](https://go.dev/)" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg"></a></code>
 <code><a href="https://www.javascript.com/" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"></a></code>
 <code><a href="https://www.postgresql.org/" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"></a></code>
 <code><a href="https://aws.amazon.com" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></a></code>
