@@ -10,16 +10,19 @@
 - :briefcase: Currently working at [Roadcard](https://roadcard.com.br/)
 - :purple_heart: Kind people are my kinda people
 - :apple: Beginner's mindset (**open to learning**)
-- 🤓  Currently learning [Golang](https://go.dev/)
+- 🤓 I'm currently on a journey into the low-code world, working with [Mendix](https://www.mendix.com/).
+---
+**📖 Mendix Rapid Developer Certification:** <br>
 
+![Rapid-min(1)](https://github.com/user-attachments/assets/3e569d37-b8b7-4036-80d2-fa188e42d2d0)
+
+**Description**: https://academy.mendix.com/link/certifications/23/rapid
 
 ---
-
 
 **✨ Tech stacks currently using:** <br>
 <br>
 <code><a href="https://www.ruby-lang.org/" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg"></a></code>
-<code><a href="[[https://elixir-lang.org/](https://go.dev/)](https://go.dev/)" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"></a></code>
 <code><a href="https://www.javascript.com/" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"></a></code>
 <code><a href="https://www.postgresql.org/" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"></a></code>
 <code><a href="https://aws.amazon.com" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></a></code>
